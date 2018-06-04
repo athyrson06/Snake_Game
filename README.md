@@ -1,3 +1,3 @@
 # Snake_Game
 
-![Imagem Exemplo 2](/images/snake_game_1.png) ![Imagem Exemplo 2](/images/snake_game_2.png)
+![Imagem Exemplo](/images/snake_game_2.png){:height="200px" width="200px"}
